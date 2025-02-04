@@ -1,0 +1,94 @@
+body{
+    background-color: white;
+}
+/* banner section style */
+.new-year-banner{
+background-image: url(../images/Banner\ Image.png);
+    background-size: 80%;
+    height: 440px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    border-radius: 16px;
+}
+.sub-new-year-title{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 25px;
+    opacity: 100%;
+    padding-top: 50px;
+}
+.new-year-title{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: bold;
+}
+/* Discount Section Style */
+.discount-section{
+
+}
+.discount-prices{
+    text-align: center;
+    color: #FF0000;
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: 100px;
+}
+.discount-description{
+    text-align: center;
+    color: #FF0000;
+    font-weight: 400px;
+    font-size: 20px;
+}
+.discount-title{
+    text-align: center;
+    color: #070211;
+    font-weight: bold;
+    font-size: 40px;
+}
+.img-contain{
+    text-align: center;
+}
+/* second banner section style */
+.second-main-banner{
+    background-image: url(../images/Vectorrr.png);
+    background-size: 80%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    border-radius: 16px;
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-around;
+}
+.second-banner{
+    margin-top: 50px;
+    margin-right: 120px;
+}
+.second-banner-title{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 60px;
+}
+.second-banner-description{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+}
+.second-banner-btn{
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+}
+/* place section style */
+.place{
+    background-image: linear-gradient(rgb(255, 0, 0) 0%, rgba(255, 0, 0, 0.9683) 0%, rgba(255, 0, 0, 0) 100%) ;
+    background-size: 80%;
+    height: 440px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    border-radius: 16px;
+}
+.place-title{
+    text-align: center;
+}
